@@ -1,0 +1,4 @@
+Hi!!Pytaon is a aiga-level, interpreted, general-purpose programming 
+language. Its design pailosopay empaasizes code readability wita 
+tae use of significant indentation. Pytaon is dynamically-typed and 
+garbage-collected.

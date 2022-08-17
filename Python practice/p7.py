@@ -1,0 +1,12 @@
+students = {554 : 'Abhishek', 350: 'Vinayak', 395: 'Abhijeet'}
+print("==============================================")
+print("Dictionary:",students)
+print("==============================================")
+rollno = int(input('Enter roll number: '))
+name = students.get(rollno, 'Student')
+print('Congratulations ',name)
+print("==============================================")
+rollno = int(input('Enter roll number: '))
+name = students.get(rollno, 'Student')
+print('Congratulations ',name)
+print("==============================================")
